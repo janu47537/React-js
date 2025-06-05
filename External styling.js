@@ -1,4 +1,4 @@
-//App.js//
+/*App.js*/
 import './App.css';
 function App(){
   return(
@@ -11,7 +11,7 @@ function App(){
   );
 }
 export default App;
-//App.css//
+/*App.css*/
 .h{
   color:blue;
   border:5px solid red;
