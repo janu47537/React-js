@@ -11,7 +11,7 @@ function App(){
     borderRadius:"20px",
   }
   return(
-    //Inline Styling
+    /*Inline Styling*/
     <div>
       <h1 style={h}> Hello MTIET</h1>
       <h2 style={{color:"green"}}>Hello World!!!!!!</h2>
