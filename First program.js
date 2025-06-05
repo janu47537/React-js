@@ -1,4 +1,4 @@
-//firstprog.js//
+/*firstprog.js*/
 import React from 'react';
 function firstprog(){
     return(
@@ -6,7 +6,7 @@ function firstprog(){
     );
 }
 export default firstprog;
-//App.js//
+/*App.js*/
 import React from 'react';
 import Example from './firstprog';
 function App(){
