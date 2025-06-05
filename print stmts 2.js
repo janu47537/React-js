@@ -8,7 +8,7 @@ function App(){
   );
 }
 export default App;
-//App.css//
+/*App.css*/
 .h{
   color:blueviolet;
   font-size:50px;
