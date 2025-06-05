@@ -1,4 +1,4 @@
-//example.js/
+/*example.js*/
 import React from 'react';
 function example(){
     return(
@@ -10,7 +10,7 @@ function example(){
     );
 }
 export default example;
-//Appjs//
+/*Appjs*/
 import React from 'react';
 import Example from './example';
 function App(){
